@@ -1,0 +1,4 @@
+mysql/data/*
+mysql/backup/*
+mysql/resources/*
+.idea
