@@ -1,5 +1,4 @@
 [mysqld]
 max_allowed_packet=200M
-bind=0.0.0.0
 [mysqldump]
 max_allowed_packet=200M
